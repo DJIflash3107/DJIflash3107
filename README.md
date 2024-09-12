@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://instagram.com/DJIflash3107"><img src="https://img.shields.io/instagram/follow/DJIflash3107?color=0ff00&label=%40DJIflash3107&logo=instagram&logoColor=00ff00&style=for-the-badge"></a>
+  <a href="https://instagram.com/djiflash.3107"><img src="https://img.shields.io/instagram/follow/DJIflash3107?color=0ff00&label=%40DJIflash3107&logo=instagram&logoColor=00ff00&style=for-the-badge"></a>
   <a href="https://github.com/sponsors/DJIflash3107"><img src="https://img.shields.io/github/sponsors/DJIflash3107?color=00ff00&logoColor=00ff00&logo=github&style=for-the-badge"></a>
   <a href="https://github.com/DJIflash3107"><img src="https://img.shields.io/github/followers/DJIflash3107?color=%2300ff00&logoColor=00ff00&logo=github&style=for-the-badge"></a>
 </p>

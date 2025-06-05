@@ -1,1 +1,1 @@
-<div style="width: 100%; display: flex;"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DJIflash3107&theme=default&hide_border=true" alt="DJIflash3107's GitHub Stats" /></div>
+<div style="width: 100%; display: flex;"><img style="width: 100%;" src="https://github-readme-streak-stats.herokuapp.com/?user=DJIflash3107&theme=default&hide_border=true" alt="DJIflash3107's GitHub Stats" /></div>
